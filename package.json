@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap_grid_small",
+  "version": "0.0.0",
+  "description": "Basic Bootstrap Gris system with a 16px gutter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryancrosser/bootstrap_grid_small.git"
+  },
+  "author": "Ryan Crosser <Crosser_Ryan@bah.com>",
+  "license": "MIT",
+  "main": "bootstrap.css",
+  "bugs": {
+    "url": "https://github.com/ryancrosser/bootstrap_grid_small/issues"
+  },
+  "homepage": "https://github.com/ryancrosser/bootstrap_grid_small#readme"
+}
