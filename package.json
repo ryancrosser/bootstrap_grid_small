@@ -12,7 +12,7 @@
   },
   "author": "Ryan Crosser <Crosser_Ryan@bah.com>",
   "license": "MIT",
-  "main": "bootstrap.css",
+  "main": "bootstrap_grid_small.css",
   "bugs": {
     "url": "https://github.com/ryancrosser/bootstrap_grid_small/issues"
   },
